@@ -113,3 +113,4 @@ export async function scrapeFeeds() {
 function parsePublished(dateString: string): Date{
     return new Date(dateString)
 }
+
